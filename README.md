@@ -1,4 +1,4 @@
-### Hi, I'm Artem 👋
+# Artem Borysenko
 
 Full-Stack Developer based in Stuttgart, Germany.
 B.Sc. in Software Engineering.
