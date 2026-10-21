@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Artem 👋
 
-<!--
-**xeekes/xeekes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer based in Stuttgart, Germany.
+B.Sc. in Software Engineering.
 
-Here are some ideas to get you started:
+**Backend:** Python (FastAPI, Django), Java (Spring), Node.js
+**Frontend:** React, JavaScript, HTML/CSS/SCSS
+**Databases:** SQL (MySQL), relational design
+**Also:** REST APIs, Git, Docker, WordPress (custom themes & plugins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications end-to-end — from architecture to deployment —
+across academic, freelance and personal projects.
+
+📫 artemborysenko19@gmail.com
